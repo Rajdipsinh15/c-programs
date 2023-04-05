@@ -7,5 +7,4 @@ void main()
 	int i;
 	for(i=0;s[i];i++);
 	printf("string length including =%d\n",i);
-	printf("Hello World");
 }
